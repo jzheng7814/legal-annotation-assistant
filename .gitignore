@@ -1,0 +1,8 @@
+documents/
+__pycache__/
+annotation_state.json
+case_summary.txt
+chunk_embeddings.pkl
+chunk_list.csv
+document_mapping.json
+enhanced_chunks.csv
