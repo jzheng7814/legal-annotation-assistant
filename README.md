@@ -13,7 +13,7 @@ A Streamlit-based tool for annotating legal case documents, with semantic search
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jzheng7814/legal-annotation-assistant.git
    cd legal-annotation-assistant
    ```
 
